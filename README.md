@@ -1,5 +1,5 @@
 ## Hi, my name is Carles and I do stuff!
-<img src="images/me.png" width="200px" height="200px"/>
+<img src="images/Carnet_2.png" width="200px" height="200px"/>
 
 Stuff I do:
 
